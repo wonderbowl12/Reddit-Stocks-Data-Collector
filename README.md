@@ -9,6 +9,7 @@ expand my "useless" words dictionary to filter those out. Also a feature that sc
 ## Example 
 
 >What subreddit do you want to scrape?: **WallStreetBets**
+
 >Sample Size? **100**
 
 > **Output** ALL 1
