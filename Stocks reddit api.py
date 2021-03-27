@@ -3,11 +3,6 @@ import praw
 from datetime import datetime
 from collections import Counter
 
-# add comments to search
-# add GUI tkinter
-# add password protection
-# add password recovery twillio
-
 # reddit API
 posts = []
 reddit = praw.Reddit(client_id='SWc41yqOyXqkgg', client_secret='4ueEkrOyx2lCGvl0mqcWxfRaSY_rBg', user_agent='WebScrape')
